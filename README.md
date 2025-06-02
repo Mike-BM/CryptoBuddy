@@ -40,12 +40,6 @@ CryptoBuddy provides advice on:
 
 ---
 
-Word Summary
-CryptoBuddy mimics basic AI decision-making by using if-else logic to answer user questions based on crypto trends and sustainability data.
-It evaluates inputs, selects the best match, and offers investment advice.
-Though simple, it demonstrates how AI rules can be applied to real-world decision-making scenarios.
-
-
 📊 Dataset
 
 The chatbot uses this internal database:
