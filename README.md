@@ -65,3 +65,7 @@ crypto_db = {
         "sustainability_score": 8 / 10
     }
 }
+
+![Screenshot 2025-06-02 224642](https://github.com/user-attachments/assets/c51cbb6c-756f-475b-9deb-a0c2fd3bfff3)
+![Screenshot 2025-06-02 225833](https://github.com/user-attachments/assets/c9abcaf0-06e9-4eed-9fbf-fc040d18591a)
+![Screenshot 2025-06-02 225853](https://github.com/user-attachments/assets/6a3e4174-a1de-4f39-8609-56ab793b26ce)
